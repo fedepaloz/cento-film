@@ -13,6 +13,7 @@
     "@fortawesome/free-brands-svg-icons": "^6.3.0",
     "@fortawesome/free-regular-svg-icons": "^6.3.0",
     "@fortawesome/free-solid-svg-icons": "^6.3.0",
+    "axios": "^1.3.4",
     "primeflex": "^3.3.0",
     "primevue": "^3.24.0",
     "vue": "^3.2.47",
